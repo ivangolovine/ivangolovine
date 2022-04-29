@@ -1,4 +1,4 @@
-##Thank you for checking out my page!##
+### Thank you for checking out my page!
 
 My name is Ivan Golovine and I'm software developer, who's recently finished his Bachelor of Science at Ryerson University.
 
