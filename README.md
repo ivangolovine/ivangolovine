@@ -1,8 +1,8 @@
 ### Thank you for checking out my page!
 
-My name is Ivan Golovine and I'm software developer, who's recently finished his Bachelor of Science at Ryerson University.
+My name is Ivan Golovine and I'm a software developer, who's recently finished his Bachelor of Science at Toronto Metropolitan University.
 
-I utilize a variety of different languages like React, HTML5, CSS3, JavaScript, SQL, Java, Python, C/C++, PHP and more! Check out my projects and [GitHub repositories](https://github.com/ivangolovine?tab=repositories)!
+I utilize a variety of different languages like React, HTML5, CSS3, JavaScript, SQL, Java, Python, C/C++, PHP, and more! Check out my projects and [GitHub repositories](https://github.com/ivangolovine?tab=repositories)!
 
 <!--
 - 🔭 I’m currently working on ...
@@ -16,7 +16,7 @@ I utilize a variety of different languages like React, HTML5, CSS3, JavaScript, 
 -->
 
 ### About Me
-- 🎓 Ryerson University | Computer Science
+- 🎓 Toronto Metropolitan University | Computer Science
 - 🔎 Looking for my next Dev position. 
 - ⚡ Experimenting with RL and creating Visual Representation of the Agents.
 - 📚 Reviewing previously used programming languages and frameworks.
