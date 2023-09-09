@@ -26,4 +26,4 @@ I utilize a variety of different languages like React, HTML5, CSS3, JavaScript, 
 - 💬 Reach me through email: [ivangolovine@gmail.com](mailto:ivangolovine@gmail.com)
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ivangolovine?exclude_repo=parser_pdf&layout=compact&langs_count=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ivangolovine&exclude_repo=parser_pdf&layout=compact&langs_count=10)
