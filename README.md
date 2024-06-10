@@ -22,7 +22,7 @@ I utilize a variety of different languages like React, HTML5, CSS3, JavaScript, 
 - 📚 Reviewing previously used programming languages and frameworks.
 
 ### Contact Info
-- 🌐 Check out my website! [https://migdevelopment.ca/](https://migdevelopment.ca/)
+- 🌐 Check out my website! [https://igdevelopment.ca/](https://igdevelopment.ca/)
 - 💬 Reach me through email: [ivangolovine@gmail.com](mailto:ivangolovine@gmail.com)
 
 
