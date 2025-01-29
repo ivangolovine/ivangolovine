@@ -1,6 +1,6 @@
 ### Thank you for checking out my page!
 
-My name is Ivan Golovine and I'm a software developer, who's recently finished his Bachelor of Science at Toronto Metropolitan University.
+My name is Ivan Golovine and I'm a software developer, with a Bachelor of Science at Toronto Metropolitan University.
 
 I utilize a variety of different languages like React, HTML5, CSS3, JavaScript, SQL, Java, Python, C/C++, PHP, and more! Check out my projects and [GitHub repositories](https://github.com/ivangolovine?tab=repositories)!
 
@@ -25,7 +25,10 @@ I utilize a variety of different languages like React, HTML5, CSS3, JavaScript, 
 - 🌐 Check out my website! [https://igdevelopment.ca/](https://igdevelopment.ca/)
 - 💬 Reach me through email: [ivangolovine@gmail.com](mailto:ivangolovine@gmail.com)
 
-
+<h2>Stats</h2>
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ivangolovine/ivangolovine/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ivangolovine&count_private=true&theme=react&border_radius=15" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=ivangolovine&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=15" alt="readme stats" />
