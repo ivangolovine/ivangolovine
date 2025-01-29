@@ -24,10 +24,22 @@ I utilize a variety of different languages like React, HTML5, CSS3, JavaScript, 
 ### Contact Info
 - 🌐 Check out my website! [https://igdevelopment.ca/](https://igdevelopment.ca/)
 - 💬 Reach me through email: [ivangolovine@gmail.com](mailto:ivangolovine@gmail.com)
+---
+### 🧰 Primary Tools
+<img align="left" alt="React" width="45px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="JavaScript" width="45px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="NodeJS" width="45px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Python" width="45px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="Java" width="45px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Git" width="45px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="C#" width="45px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img align="left" alt="CSS" width="45px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css/css3-original.svg" />
+<br></br>
+<br></br>
 
-<h2>Stats</h2>
+<h2>🐍 Contributions 🐍</h2>
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ivangolovine/ivangolovine/output/github-contribution-grid-snake.svg" />
-  
+<h2>🍎 Stats 🍎</h2>
   <br/><br/>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ivangolovine&count_private=true&theme=react&border_radius=15" alt="streak stats"/>
