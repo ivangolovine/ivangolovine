@@ -33,7 +33,7 @@ I utilize a variety of different languages like React, HTML5, CSS3, JavaScript, 
 <img align="left" alt="Java" width="45px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Git" width="45px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="C#" width="45px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<img align="left" alt="CSS" width="45px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css/css3-original.svg" />
+<img align="left" alt="CSS" width="45px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <br></br>
 <br></br>
 
